@@ -1,0 +1,6 @@
+1.removed bug in finding files when relative path given.
+2.powershell script too done.
+*3.project not cleaned to reduce size
+4.cleaned the folder.
+5.trial run on loal system done.
+6.need to check on other's sytem.

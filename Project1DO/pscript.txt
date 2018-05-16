@@ -1,0 +1,1 @@
+Start-Process -FilePath "clientCplusPlus.exe" -ArgumentList ["../Filemgr", "*.h", "*.cpp", "vector"] -Verb runas -WindowStyle Maximized

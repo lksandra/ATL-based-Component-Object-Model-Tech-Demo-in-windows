@@ -1,0 +1,1 @@
+Start-Process -FilePath "./Debug/clientCplusPlus.exe" -ArgumentList "../test", "*.h", "*.cpp", "*.txt", "vector" -Verb runas -WindowStyle Maximized -WorkingDirectory "./Debug"
